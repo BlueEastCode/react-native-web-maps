@@ -78,7 +78,7 @@
     "react-native-web": "*"
   },
   "dependencies": {
-    "react-google-maps": "^7.3.0",
+    "react-google-maps": "^8.0.0",
     "tslint": "^5.11.0"
   }
 }
